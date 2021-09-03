@@ -1,0 +1,515 @@
+{
+    "app_hash": "",
+    "app_state": {
+        "auth": {
+            "accounts": [
+                {
+                    "type": "cosmos-sdk/Account",
+                    "value": {
+                        "account_number": "0",
+                        "address": "band1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm2czhjng",
+                        "coins": [
+                            {
+                                "amount": "9999895000000",
+                                "denom": "uband"
+                            }
+                        ],
+                        "public_key": null,
+                        "sequence": "4"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/ModuleAccount",
+                    "value": {
+                        "account_number": "3",
+                        "address": "band1fl48vsnmsdzcv85q5d2q4z5ajdha8yu3v5fdpl",
+                        "coins": [
+                            {
+                                "amount": "100000000",
+                                "denom": "uband"
+                            }
+                        ],
+                        "name": "bonded_tokens_pool",
+                        "permissions": [
+                            "burner",
+                            "staking"
+                        ],
+                        "public_key": "",
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/Account",
+                    "value": {
+                        "account_number": "12",
+                        "address": "band1fd8mzvaq6r0x2vvh5fxushu9y2fd63m0a03qsk",
+                        "coins": [
+                            {
+                                "amount": "1000000",
+                                "denom": "uband"
+                            }
+                        ],
+                        "public_key": null,
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/ModuleAccount",
+                    "value": {
+                        "account_number": "4",
+                        "address": "band1tygms3xhhs3yv487phx3dw4a95jn7t7lc54uht",
+                        "coins": [],
+                        "name": "not_bonded_tokens_pool",
+                        "permissions": [
+                            "burner",
+                            "staking"
+                        ],
+                        "public_key": "",
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/ModuleAccount",
+                    "value": {
+                        "account_number": "5",
+                        "address": "band10d07y265gmmuvt4z0w9aw880jnsr700jrdn8wm",
+                        "coins": [],
+                        "name": "gov",
+                        "permissions": [
+                            "burner"
+                        ],
+                        "public_key": "",
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/ModuleAccount",
+                    "value": {
+                        "account_number": "2",
+                        "address": "band1jv65s3grqf6v6jl3dp4t6c9t9rk99cd87sy73h",
+                        "coins": [
+                            {
+                                "amount": "49433853",
+                                "denom": "uband"
+                            }
+                        ],
+                        "name": "distribution",
+                        "permissions": null,
+                        "public_key": "",
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/Account",
+                    "value": {
+                        "account_number": "8",
+                        "address": "band177n5mmwwfv76a7uxl80cyhdqsuv46wplukzmcu",
+                        "coins": [
+                            {
+                                "amount": "1000000",
+                                "denom": "uband"
+                            }
+                        ],
+                        "public_key": null,
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/ModuleAccount",
+                    "value": {
+                        "account_number": "6",
+                        "address": "band1m3h30wlvsf8llruxtpukdvsy0km2kum83786lg",
+                        "coins": [],
+                        "name": "mint",
+                        "permissions": [
+                            "minter"
+                        ],
+                        "public_key": "",
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/Account",
+                    "value": {
+                        "account_number": "1",
+                        "address": "band1m5lq9u533qaya4q3nfyl6ulzqkpkhge9q8tpzs",
+                        "coins": [
+                            {
+                                "amount": "10000000000000",
+                                "denom": "uband"
+                            }
+                        ],
+                        "public_key": {
+                            "type": "tendermint/PubKeySecp256k1",
+                            "value": "A6rU4D6xY4ibvdSDdg8iLDSVF73O6ZB/vUH6iJsNRNqY"
+                        },
+                        "sequence": "4"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/ModuleAccount",
+                    "value": {
+                        "account_number": "7",
+                        "address": "band17xpfvakm2amg962yls6f84z3kell8c5lfkrzn4",
+                        "coins": [],
+                        "name": "fee_collector",
+                        "permissions": null,
+                        "public_key": "",
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/Account",
+                    "value": {
+                        "account_number": "11",
+                        "address": "band179c868m7rt38g0ng6h5c5w09p5l4cat45lya9p",
+                        "coins": [
+                            {
+                                "amount": "1000000",
+                                "denom": "uband"
+                            }
+                        ],
+                        "public_key": null,
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/Account",
+                    "value": {
+                        "account_number": "10",
+                        "address": "band13ktx6yd5hyne78yff62k6sww9de4cdy2xcevu2",
+                        "coins": [
+                            {
+                                "amount": "1000000",
+                                "denom": "uband"
+                            }
+                        ],
+                        "public_key": null,
+                        "sequence": "0"
+                    }
+                },
+                {
+                    "type": "cosmos-sdk/Account",
+                    "value": {
+                        "account_number": "9",
+                        "address": "band1w2ajp7kcvd0ngf7s73uhtsmeak2zxn5prp3h2z",
+                        "coins": [
+                            {
+                                "amount": "1000000",
+                                "denom": "uband"
+                            }
+                        ],
+                        "public_key": null,
+                        "sequence": "0"
+                    }
+                }
+            ],
+            "params": {
+                "max_memo_characters": "256",
+                "sig_verify_cost_ed25519": "590",
+                "sig_verify_cost_secp256k1": "1000",
+                "tx_sig_limit": "7",
+                "tx_size_cost_per_byte": "5"
+            }
+        },
+        "bank": {
+            "send_enabled": true
+        },
+        "crisis": {
+            "constant_fee": {
+                "amount": "10000000000",
+                "denom": "uband"
+            }
+        },
+        "distribution": {
+            "delegator_starting_infos": [
+                {
+                    "delegator_address": "band1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm2czhjng",
+                    "starting_info": {
+                        "creation_height": "0",
+                        "previous_period": "1",
+                        "stake": "100000000.000000000000000000"
+                    },
+                    "validator_address": "bandvaloper1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm255n3kr"
+                }
+            ],
+            "delegator_withdraw_infos": [],
+            "fee_pool": {
+                "community_pool": [
+                    {
+                        "amount": "988677.060000000000000000",
+                        "denom": "uband"
+                    }
+                ]
+            },
+            "outstanding_rewards": [
+                {
+                    "outstanding_rewards": [
+                        {
+                            "amount": "48445175.940000000000000000",
+                            "denom": "uband"
+                        }
+                    ],
+                    "validator_address": "bandvaloper1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm255n3kr"
+                }
+            ],
+            "params": {
+                "base_proposer_reward": "0.030000000000000000",
+                "bonus_proposer_reward": "0.120000000000000000",
+                "community_tax": "0.020000000000000000",
+                "withdraw_addr_enabled": true
+            },
+            "previous_proposer": "bandvalcons1hus2gad2phjzw063v2epll2tj5443c6x2na4gc",
+            "validator_accumulated_commissions": [
+                {
+                    "accumulated": [
+                        {
+                            "amount": "4844517.594000000000000000",
+                            "denom": "uband"
+                        }
+                    ],
+                    "validator_address": "bandvaloper1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm255n3kr"
+                }
+            ],
+            "validator_current_rewards": [
+                {
+                    "rewards": {
+                        "period": "2",
+                        "rewards": [
+                            {
+                                "amount": "43600658.346000000000000000",
+                                "denom": "uband"
+                            }
+                        ]
+                    },
+                    "validator_address": "bandvaloper1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm255n3kr"
+                }
+            ],
+            "validator_historical_rewards": [
+                {
+                    "period": "1",
+                    "rewards": {
+                        "cumulative_reward_ratio": null,
+                        "reference_count": 2
+                    },
+                    "validator_address": "bandvaloper1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm255n3kr"
+                }
+            ],
+            "validator_slash_events": []
+        },
+        "evidence": {
+            "evidence": null,
+            "params": {
+                "max_evidence_age": "120000000000"
+            }
+        },
+        "genutil": {
+            "gentxs": []
+        },
+        "gov": {
+            "deposit_params": {
+                "max_deposit_period": "172800000000000",
+                "min_deposit": [
+                    {
+                        "amount": "1000000000",
+                        "denom": "uband"
+                    }
+                ]
+            },
+            "deposits": null,
+            "proposals": null,
+            "starting_proposal_id": "1",
+            "tally_params": {
+                "quorum": "0.334000000000000000",
+                "threshold": "0.500000000000000000",
+                "veto": "0.334000000000000000"
+            },
+            "votes": null,
+            "voting_params": {
+                "voting_period": "172800000000000"
+            }
+        },
+        "mint": {
+            "minter": {
+                "annual_provisions": "2600055827438.186378348268460200",
+                "inflation": "0.130002471652404200"
+            },
+            "params": {
+                "blocks_per_year": "10519200",
+                "goal_bonded": "0.670000000000000000",
+                "inflation_max": "0.200000000000000000",
+                "inflation_min": "0.070000000000000000",
+                "inflation_rate_change": "0.130000000000000000",
+                "mint_denom": "uband"
+            }
+        },
+        "oracle": {
+            "data_sources": [
+                {
+                    "description": "coingecko get price",
+                    "filename": "c56de9061a78ac96748c83e8a22330accf6ee8ebb499c8525613149a70ec49d0",
+                    "name": "coingecko",
+                    "owner": "band1p40yh3zkmhcv0ecqp3mcazy83sa57rgjp07dun"
+                },
+                {
+                    "description": "cryptocompare get price",
+                    "filename": "dd155f719c5201336d4852830a3ad446ddf01b1ab647cf6ea5d7b9e7678a7479",
+                    "name": "cryptocompare",
+                    "owner": "band1p40yh3zkmhcv0ecqp3mcazy83sa57rgjp07dun"
+                },
+                {
+                    "description": "binance get price",
+                    "filename": "f3bad1a6d88cd30ce311d6845f114422f9c2c52c32c45b5086d69d052ad90921",
+                    "name": "binance",
+                    "owner": "band1p40yh3zkmhcv0ecqp3mcazy83sa57rgjp07dun"
+                }
+            ],
+            "oracle_scripts": [
+                {
+                    "description": "get prices in USD and average them",
+                    "filename": "bfdb58ec0ad85ca2427ad63e6c5d32973a5096b53a933e6a7a630887a92ca5f1",
+                    "name": "Pricey",
+                    "owner": "band1p40yh3zkmhcv0ecqp3mcazy83sa57rgjp07dun",
+                    "schema": "{symbol:string,multiplier:u64}/{px:u64}"
+                }
+            ],
+            "params": {
+                "base_request_gas": "150000",
+                "expiration_block_count": "100",
+                "inactive_penalty_duration": "600000000000",
+                "max_ask_count": "16",
+                "max_raw_request_count": "12",
+                "oracle_reward_percentage": "70",
+                "per_validator_request_gas": "30000",
+                "sampling_try_count": "3"
+            },
+            "reporters": [
+                {
+                    "reporters": [
+                        "band1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm2czhjng",
+                        "band1fd8mzvaq6r0x2vvh5fxushu9y2fd63m0a03qsk",
+                        "band177n5mmwwfv76a7uxl80cyhdqsuv46wplukzmcu",
+                        "band179c868m7rt38g0ng6h5c5w09p5l4cat45lya9p",
+                        "band13ktx6yd5hyne78yff62k6sww9de4cdy2xcevu2",
+                        "band1w2ajp7kcvd0ngf7s73uhtsmeak2zxn5prp3h2z"
+                    ],
+                    "validator": "bandvaloper1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm255n3kr"
+                }
+            ]
+        },
+        "slashing": {
+            "missed_blocks": {
+                "bandvalcons1hus2gad2phjzw063v2epll2tj5443c6x2na4gc": []
+            },
+            "params": {
+                "downtime_jail_duration": "600000000000",
+                "min_signed_per_window": "0.050000000000000000",
+                "signed_blocks_window": "30000",
+                "slash_fraction_double_sign": "0.050000000000000000",
+                "slash_fraction_downtime": "0.000100000000000000"
+            },
+            "signing_infos": {
+                "bandvalcons1hus2gad2phjzw063v2epll2tj5443c6x2na4gc": {
+                    "address": "bandvalcons1hus2gad2phjzw063v2epll2tj5443c6x2na4gc",
+                    "index_offset": "199",
+                    "jailed_until": "1970-01-01T00:00:00Z",
+                    "missed_blocks_counter": "0",
+                    "start_height": "0",
+                    "tombstoned": false
+                }
+            }
+        },
+        "staking": {
+            "delegations": [
+                {
+                    "delegator_address": "band1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm2czhjng",
+                    "shares": "100000000.000000000000000000",
+                    "validator_address": "bandvaloper1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm255n3kr"
+                }
+            ],
+            "exported": true,
+            "last_total_power": "100",
+            "last_validator_powers": [
+                {
+                    "Address": "bandvaloper1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm255n3kr",
+                    "Power": "100"
+                }
+            ],
+            "params": {
+                "bond_denom": "uband",
+                "historical_entries": 1000,
+                "max_entries": 7,
+                "max_validators": 100,
+                "unbonding_time": "1814400000000000"
+            },
+            "redelegations": null,
+            "unbonding_delegations": null,
+            "validators": [
+                {
+                    "commission": {
+                        "commission_rates": {
+                            "max_change_rate": "0.010000000000000000",
+                            "max_rate": "0.200000000000000000",
+                            "rate": "0.100000000000000000"
+                        },
+                        "update_time": "2021-07-19T13:04:17.78929Z"
+                    },
+                    "consensus_pubkey": "bandvalconspub1addwnpepqtqcnjwuhzwdmjgrsxgu2fvs5khdwdcmnh07d5nqhx6g90cgd6gh63m6afp",
+                    "delegator_shares": "100000000.000000000000000000",
+                    "description": {
+                        "details": "",
+                        "identity": "",
+                        "moniker": "validator",
+                        "security_contact": "",
+                        "website": ""
+                    },
+                    "jailed": false,
+                    "min_self_delegation": "1",
+                    "operator_address": "bandvaloper1eze9ddxcqw6nad8wtvrm8eh7k9dgjwm255n3kr",
+                    "status": 2,
+                    "tokens": "100000000",
+                    "unbonding_height": "0",
+                    "unbonding_time": "1970-01-01T00:00:00Z"
+                }
+            ]
+        },
+        "supply": {
+            "supply": [
+                {
+                    "amount": "20000049433853",
+                    "denom": "uband"
+                }
+            ]
+        },
+        "upgrade": {}
+    },
+    "chain_id": "bandchain",
+    "consensus_params": {
+        "block": {
+            "max_bytes": "1000000",
+            "max_gas": "5000000",
+            "time_iota_ms": "1000"
+        },
+        "evidence": {
+            "max_age_duration": "172800000000000",
+            "max_age_num_blocks": "100000"
+        },
+        "validator": {
+            "pub_key_types": [
+                "secp256k1"
+            ]
+        }
+    },
+    "genesis_time": "2021-07-19T13:04:17.78929Z",
+    "validators": [
+        {
+            "address": "",
+            "name": "validator",
+            "power": "100",
+            "pub_key": {
+                "type": "tendermint/PubKeySecp256k1",
+                "value": "AsGJydy4nN3JA4GRxSWQpa7XNxud3+bSYLm0gr8IbpF9"
+            }
+        }
+    ]
+}

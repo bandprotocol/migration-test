@@ -1,0 +1,18 @@
+{
+  "name": "tao",
+  "type": "local",
+  "address": "band1l55vghd0qddymtxdp28f44958ecgfhlqxde6du",
+  "pubkey": "bandpub1addwnpepq0kesuvue95yadejv5a2gqrncunpkqqwc26zjed5vq5lhps0ue0r772asuv",
+  "mnemonic": "chapter okay unaware talent fame column only shift repair found route lab chapter myself ball wood shock magnet coach crouch solid cotton evolve pride"
+}
+
+Mnemonic: peace view bomb elder elbow organ miss guess night assume catalog news dinner width improve heavy just dolphin pig outdoor scheme melt loop acquire
+Address: band1p3u5w2l9yxqnggj6vhl9v3rr5ppnd7dyzf73u2
+Mnemonic: human mechanic loyal actual cute share lucky way cinnamon toilet baby plastic subject side damp feed blouse hospital stomach van drink just curve alter
+Address: band19x74rghwzjncqtp8gg6lkled02c50lpdwwchup
+Mnemonic: document holiday embody crime one visit march skate good dentist fee bright topic input invite tomorrow document business ladder course hope uniform notice buzz
+Address: band1t48vtvyhem629wwu0s2teqhyf469kd2rq9552k
+Mnemonic: dry pelican vendor cage kiwi diamond rocket runway candy riot bunker foot people boost draw civil infant village bean honey pudding kind love bike
+Address: band1pld2hs5lm290l8edde78nn7l46jagfllyptynr
+Mnemonic: artwork undo depart business high rival siege panel staff gloom announce casino rookie coral slender endless ability fetch harbor toy ceiling junk harsh limb
+Address: band19znhvvn3r2mrgpmxysn5pl83s6gk0kqrt8d0vj

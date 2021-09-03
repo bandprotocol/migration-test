@@ -1,0 +1,17 @@
+asn1crypto==1.4.0
+base58==2.1.0
+bech32==1.2.0
+bip32==1.0
+certifi==2021.5.30
+cffi==1.14.6
+charset-normalizer==2.0.3
+coincurve==15.0.0
+dacite==1.6.0
+ecdsa==0.17.0
+idna==3.2
+mnemonic==0.19
+pyband==0.1.1
+pycparser==2.20
+requests==2.26.0
+six==1.16.0
+urllib3==1.26.6

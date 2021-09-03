@@ -1,0 +1,11 @@
+address: false
+broadcast-timeout: 5m
+chain-id: band-guanyu-mainnet-mock
+executor: rest:https://iv3lgtv11a.execute-api.ap-southeast-1.amazonaws.com/live/master?timeout=10s
+gas-prices: ""
+log-level: info
+max-report: "10"
+max-try: "5"
+node: tcp://localhost:26657
+rpc-poll-interval: 1s
+validator: bandvaloper1l55vghd0qddymtxdp28f44958ecgfhlq2maegh
